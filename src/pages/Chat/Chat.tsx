@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import styled, { keyframes }  from "styled-components";
-import  UserAvatar  from "../../components/user-Avatar";
-import  BotAvatar  from "../../components/bot-Avatar";
+// import  UserAvatar  from "../../components/user-Avatar";
+// import  BotAvatar  from "../../components/bot-Avatar";
 // import  Empty  from "../../components/empty";
 
 
