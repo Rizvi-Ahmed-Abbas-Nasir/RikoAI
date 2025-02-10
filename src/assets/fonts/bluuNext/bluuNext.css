@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Bluu Next";
+  src: url("BluuNext-Bold.woff2") format("woff2"),
+    url("BluuNext-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bluu Next";
+  src: url("BluuNext-BoldItalic.woff2") format("woff2"),
+    url("BluuNext-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
